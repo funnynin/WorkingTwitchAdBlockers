@@ -1,6 +1,6 @@
 # WorkingTwitchAdBlockers
 
-This repo/readme aims to provide a list and explanation of only working Twitch ad blockers. These ad blockers, will not interrupt the stream.
+This repo/readme aims to provide a list and explanation of only working Twitch ad blocker extensions. These ad blockers, will not interrupt the stream.
 
 First of all, do not mix Twitch specific ad-blockers, doing this will cause issues. If using an extension, remove Twitch specfic userscripts if installed via TamperMonkey, UBlock Origin or other userscript managers. If you are unsure how to remove old UBlock Origin userscripts, reset UBlock Origin to factory settings or uninstall/reinstall UBlock Origin.
 
